@@ -1,6 +1,1 @@
-Nerohole V12
-bzmz
-hsm
-hsk
-hsm
-hsm
+12.0 NEROHOLE
