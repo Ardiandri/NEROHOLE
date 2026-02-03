@@ -1,5 +1,1 @@
-NEROHOLE 9.1.1
-nd
-bskel
-gsje.hek
-hejw
+10.0.0 NEROHOLE
